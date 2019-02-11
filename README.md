@@ -5,9 +5,9 @@ Location is often considered the most important factor leading to the success of
 Problem:
 Find the hotels which have the most restaurants in their vicinity. Calculate the hotel score in three different cases.
 
-1. Get the hotel score for a number of hotels where the score is the number of restaurants in a given radius.
+1. Get the hotel score for a number of hotels where the score is the number of restaurants in a given radius. [Radius.py](https://github.com/Giannoulo/Location-Alocation/blob/master/Radius.py)
 
-2. Get the hotel score for each hotel where the score is the minimum radius in which k restaurants are included.
+2. Get the hotel score for each hotel where the score is the minimum radius in which k restaurants are included. [knn.py](https://github.com/Giannoulo/Location-Alocation/blob/master/Knn.py)
 
 3. Get the score in pairs of hotels where the pair score is the score of the union of the hotels 
-without counting the intersection twice.
+without counting the intersection twice. [Pairs.py](https://github.com/Giannoulo/Location-Alocation/blob/master/Pairs.py)
